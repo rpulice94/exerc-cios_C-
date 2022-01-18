@@ -1,2 +1,3 @@
 # exercicios_C-
-exercícios em linguagem C 
+Desafio de projeto da DIO sobre GIT/GITHUB. 
+
